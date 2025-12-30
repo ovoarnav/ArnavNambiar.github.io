@@ -4,24 +4,24 @@ const items = [
   { title: "AI", anchor: "ai", note: "Current obsession. I treat it as both a tool and a philosophical problem." },
   { title: "Machine learning", anchor: "ml", note: "Projects + certifications live here (as I add them)." },
   { title: "Data science (poll project)", anchor: "poll-project", note: "How I originally learned DS: Instagram polls → analysis → repeat. I learned an absurd amount from this." },
-  { title: "Cognitive biases & the brain", note: "I got obsessed with why humans do what they do." },
+  { title: "Cognitive biases & the brain", note: "I got obsessed with why humans do what they do and the mechnaims behind thought." },
   { title: "Statistics", note: "The part of math that actually touches reality." },
   { title: "Actuarial science", note: "A real arc. Stressful, structured, and not for me long-term." },
-  { title: "Math", note: "Yes. Still yes." },
-  { title: "Exoplanets", note: "There’s a water-world and a planet where it rains glass. Reality is unhinged." },
+  { title: "Math", note: "Yes. Still yes.I thought math would teach me the secrets of the universe." },
+  { title: "Exoplanets", note: "There’s a water-world and a planet where it rains glass. Reality is unhinged. I think about the Fermi Paradox everyday" },
   { title: "Jurassic animals", note: "Titanoboa was particularly memorable." },
   { title: "People", note: "I got fascinated by personality, motives, and decision-making." },
   { title: "True crime", note: "A phase. I don’t know what that says about me." },
-  { title: "Hypebeasting", note: "Fully influenced by early YouTube culture." },
+  { title: "Hypebeasting", note: "Fully influenced by early YouTube culture. Where would fasion be if not for Ricegum" },
   { title: "YouTube (RiceGum / David Dobrik)", note: "Possibly irreversible brain damage. Allegedly." },
   { title: "Random medical disorders", note: "Classic rabbit-hole behavior." },
-  { title: "Skateboarding", note: "Short, intense phase." },
-  { title: "Photography", note: "I loved capturing worlds." },
+  { title: "Skateboarding", note: "Short, intense phase. I remember reading Tony Hawk entire wikepedia page" },
+  { title: "Photography", note: "I loved capturing worlds, I was just really bad at it." },
   { title: "Superheroes", note: "Spider-Man is my GOAT. Always. Superheroes represent morality + sacrifice." },
   { title: "Video games", note: "My parents discouraged it. I was mad then; in hindsight I’m grateful." },
   { title: "Food", note: "This was the arc where I got a bit fat." },
-  { title: "Lego Ninjago", note: "Yes." },
-  { title: "Yu-Gi-Oh! GX", note: "Jaden Yuki is weirdly parallel to my life. I hit Platinum in Duel Links (top ~20%)." },
+  { title: "Lego Ninjago", note: "I still think Kai should have been the Green Ninja." },
+  { title: "Yu-Gi-Oh! GX", note: "Jaden Yuki arc weirdly parallel's my life. I hit Platinum in Duel Links in 2025 (top ~20% world wide)." },
   { title: "Cycling", note: "Multiple times. It keeps coming back." },
   { title: "Bakugan", note: "Classic TV show → toy marketing pipeline. I fell for it completely." },
   { title: "Ben 10", note: "I was obsessed with the idea that a kid could be a hero." },
@@ -92,4 +92,5 @@ export default function ADHD() {
     </section>
   );
 }
+
 

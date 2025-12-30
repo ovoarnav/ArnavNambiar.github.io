@@ -15,7 +15,11 @@ export default function Startups() {
         <p>
           <strong>BuildSafe</strong> is a startup focused on bringing AI-powered enterprise resource planning
           (ERP) solutions to the trades. The objective is to simplify operations for small trade businesses
-          by turning messy workflows into structured, actionable systems.
+          by turning messy workflows into structured, actionable systems. This is a typical B2B SAAS start up i've
+          learnt a lot in my journey of trying to understand the trades. Its based on this idea that as result of AI,
+          trades jobs will be a more viable job than traditional White coller roles.
+          
+          
         </p>
       </div>
 
@@ -38,3 +42,4 @@ export default function Startups() {
     </section>
   );
 }
+

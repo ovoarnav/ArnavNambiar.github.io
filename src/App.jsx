@@ -29,16 +29,14 @@ export default function App() {
   usePageTheme();
 
   return (
-    <Layout>
-      <Routes>
-        <Route path="/" element={<Navigate to="/hello" replace />} />
-        <Route path="/hello" element={<Hello />} />
-        <Route path="/startups" element={<Startups />} />
-        <Route path="/research" element={<Research />} />
-        <Route path="/autobiography" element={<Autobiography />} />
-        <Route path="/adhd" element={<ADHD />} />
-        <Route path="*" element={<Navigate to="/hello" replace />} />
-      </Routes>
-    </Layout>
+    <Routes>
+      <Route path="/" element={<Navigate to="/hello" replace />} />
+      <Route path="/hello" element={<Layout><Hello /></Layout>} />
+      <Route path="/startups" element={<Layout><Startups /></Layout>} />
+      <Route path="/research" element={<Layout><Research /></Layout>} />
+      <Route path="/autobiography" element={<Layout><Autobiography /></Layout>} />
+      <Route path="/adhd" element={<Layout><ADHD /></Layout>} />
+      <Route path="*" element={<Navigate to="/hello" replace />} />
+    </Routes>
   );
 }

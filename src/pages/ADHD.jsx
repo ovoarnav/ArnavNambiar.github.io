@@ -39,11 +39,11 @@ export default function ADHD() {
         <div className="card tight">
           <p>
             First, a joke: do you know who were the only people who didn’t know I had ADHD?
-            Me and my family. <span className="muted">Badum chh.</span>
+            Me and my family.
           </p>
           <p className="muted">
-            This page is a reverse-chronological brain dump of fixations. Some entries will
-            get deep links later; some will stay as-is because I don’t care enough.
+            This page is to show that ADHD isn't always a sign of lack of ability/ focus here is a reverse-chronological brain dump of my greatest bouts of focus. 
+            Some entries will get deep links later; some will stay as-is because I don’t care enough.
           </p>
         </div>
       </div>
@@ -92,3 +92,4 @@ export default function ADHD() {
     </section>
   );
 }
+

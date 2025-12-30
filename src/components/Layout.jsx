@@ -29,11 +29,10 @@ export default function Layout({ children }) {
       </header>
 
       <main className="main">
-        {children}
+        <div className="hero">{children}</div>
+
         <footer className="footer">
-          <span>© {new Date().getFullYear()} Arnav Nambiar</span>
-          <span className="dot">•</span>
-          <span className="muted">Built on GitHub Pages. Designed to evolve.</span>
+          © {new Date().getFullYear()} Arnav Nambiar • Built on GitHub Pages. Designed to evolve.
         </footer>
       </main>
     </div>

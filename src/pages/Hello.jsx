@@ -13,6 +13,7 @@ export default function Hello() {
         </p>
 
         <div className="skills-block">
+          
           <div className="skills-title">Skills</div>
 
           <div className="chips chips-center">
@@ -56,4 +57,5 @@ export default function Hello() {
     </section>
   );
 }
+
 

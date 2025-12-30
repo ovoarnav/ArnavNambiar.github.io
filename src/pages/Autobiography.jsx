@@ -9,9 +9,9 @@ const phases = [
   "India",
   "Kenya",
   "Ghana",
-  "Canada",
   "Thailand",
   "Dubai",
+  "Canada",
   "San Fransico (the future)",
 ];
 
@@ -39,7 +39,7 @@ export default function Autobiography() {
       <div className="card">
         <h2>Phases</h2>
         <p className="muted">
-          I broke it down into arcs and left room for the future. Right now I am living through the Dubai phase.
+          I broke it down into arcs and left room for the future. Right now I am living through the Canada/Dubai phase.
         </p>
         <div className="list">
           {phases.map((p) => (
@@ -52,3 +52,4 @@ export default function Autobiography() {
     </section>
   );
 }
+

@@ -10,8 +10,8 @@ export default function Hello() {
           live my life with one simple goal: try and learn as much as possible and as a result I
           often over commit to things but its ok because its quite funny.
         </p>
-
-        <div className="chips">
+       < div className = "skills-block">
+        <div className="chips chips-center">
           <span className="chip">AI / Machine learning</span>
           <span className="chip">Statistical Modelling</span>
           <span className="chip">Optimization</span>
@@ -33,4 +33,3 @@ export default function Hello() {
     </section>
   );
 }
-

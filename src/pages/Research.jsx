@@ -60,7 +60,7 @@ export default function Research() {
         <p>
           Modern LLMs are great at predicting the next word, which makes them amazing at communicating.
           But when humans do things (booking a flight, drinking water, etc) we do not create a long speech
-          of what we are to do — we map out steps and then act them.
+          of what we are to do we map out steps and then act them.
         </p>
         <p>
           This is why I believe multi agent systems fail: they do not map out steps symbolically, so they run
@@ -75,3 +75,4 @@ export default function Research() {
     </section>
   );
 }
+

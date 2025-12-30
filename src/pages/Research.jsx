@@ -22,7 +22,7 @@ export default function Research() {
           policies for stakeholders.
         </p>
         <p className="muted">
-          The publication is private. I will later attach the public website link for those interested.
+          The publication is private. If intrested reach out, would love to share what i can without violating the NDA!
         </p>
       </div>
 
@@ -39,11 +39,19 @@ export default function Research() {
           a new coordination / complexity dynamic.
         </p>
         <p>
-          I call this <strong>dynamical complexity</strong>, inspired by dynamical systems: behaviour whose state changes
-          rapidly when dealing with a chaotic medium.
+          I call this <strong>dynamical complexity</strong>, inspired by dynamical systems: behaviour whose state
+          changes rapidly when dealing with a chaotic medium.
         </p>
         <p className="muted">
-          Not published yet. I will include current drafts here later.
+          Draft in progress —{" "}
+          <a
+            href="https://docs.google.com/document/d/1sd2Sg1Xl2ys1GyyN2aVasYEO5z7PO3eBighvbuNW9kA/edit?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            view current working document
+          </a>
+          .
         </p>
       </div>
 

@@ -23,6 +23,27 @@ export default function Hello() {
             <span className="chip">Applied Mathematics</span>
           </div>
         </div>
+
+        <div className="contact-block">
+          <div className="contact-title">Find me</div>
+          <div className="contact-links">
+            <a
+              href="https://www.instagram.com/arnav_n/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Instagram
+            </a>
+            <span className="dot">•</span>
+            <a
+              href="https://www.linkedin.com/in/arnav-nambiar-3434861b5"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LinkedIn
+            </a>
+          </div>
+        </div>
       </div>
 
       <div className="card card-center">

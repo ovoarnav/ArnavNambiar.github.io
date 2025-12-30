@@ -6,7 +6,7 @@ export default function Hello() {
       <div className="hero">
         <h1>Hello.</h1>
         <p className="lead">
-          Hi, my name is <strong>Arnav Nambiar</strong> and hello welcome to my website. I try and
+          Hi, my name is <strong>Arnav Nambiar</strong> and HELLO welcome to my website. I try and
           live my life with one simple goal: try and learn as much as possible and as a result I
           often over commit to things but its ok because its quite funny.
         </p>
@@ -21,14 +21,6 @@ export default function Hello() {
       </div>
 
       <div className="grid">
-        <div className="card">
-          <h2>Entrepreneur / Researcher</h2>
-          <p>
-            Previously I have founded a start up <strong>BuildSafe</strong> focused on bringing AI powered
-            enterprise resource planning solutions to the trade. More recently I am researching{" "}
-            <strong>Neuro-Symbolic AI</strong> for sequential decision making.
-          </p>
-        </div>
 
         <div className="card">
           <h2>Why this site exists</h2>
@@ -41,3 +33,4 @@ export default function Hello() {
     </section>
   );
 }
+

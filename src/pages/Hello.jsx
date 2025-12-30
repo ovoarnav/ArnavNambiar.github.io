@@ -9,7 +9,7 @@ export default function Hello() {
         <p className="lead hero-text">
           Hi, my name is <strong>Arnav Nambiar</strong> and welcome to my website.
           I try to live my life with one simple goal: learn as much as possible.
-          As a result, I often overcommit — but it’s okay, because it’s quite funny.
+          As a result, I often overcommit but it’s okay, because it’s quite funny.
         </p>
 
         <div className="skills-block">
@@ -56,3 +56,4 @@ export default function Hello() {
     </section>
   );
 }
+
